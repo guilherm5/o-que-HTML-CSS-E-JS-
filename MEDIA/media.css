@@ -1,0 +1,17 @@
+@media screen and (max-width: 1024px){
+
+    .container-principal{
+        font-size: 10px;
+        padding-left: 10px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .html, .css, .js{
+        display: flex;
+        flex-direction: column;
+        max-width: 350px;
+        margin: auto;
+    }
+
+}
